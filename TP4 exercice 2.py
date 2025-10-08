@@ -1,3 +1,10 @@
+"""
+TP4 exercice 2
+Par Camille Voisin
+Le 3 Octobre 2025
+"""
+
+
 class Rectangle:
     def __init__(self, base, hauteur):
         self.base = ""
